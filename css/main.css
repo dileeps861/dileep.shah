@@ -2392,7 +2392,7 @@ footer a:hover, footer a:focus {
 }
 footer .row {
 	max-width: 50%;
-	margin-left: 40%;
+	margin-left:40%;
 }
 footer .social {
 	text-align: right;
@@ -2426,7 +2426,7 @@ footer .footer-social li a {
 		text-align: center;
 	}
 	footer .row {
-		max-width: 900px;
+		max-width: 768px;
 		margin-left: 0%;
 	}
 	footer .social {
