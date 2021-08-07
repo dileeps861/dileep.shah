@@ -1111,7 +1111,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  */
 header {
 	position: fixed;
-	width: 100%;
+	width: 90%;
 	min-height: 66px;
 	z-index: 600;
 	background-color: transparent;
@@ -2391,7 +2391,7 @@ footer a:hover, footer a:focus {
 	color: #04ec2b;
 }
 footer .row {
-	max-width: 900px;
+	max-width: 50%;
 	margin-left: 40%;
 }
 footer .social {
